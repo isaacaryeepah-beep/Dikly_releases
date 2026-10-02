@@ -1,8 +1,8 @@
-version: 1.0.401
+version: 1.0.552
 files:
   - url: Dikly POS Setup.exe
-    sha512: b9oNZLNkqICqqNVdNSAiF9zfgaL5VfFYtnDMmU6eykKxUSmqCTaif6RbFSAQtZqVO0kjeZl1msM/c0UCfnf0gw==
-    size: 97059182
+    sha512: GwDUXZqRwgVmjTq4qqBATGO0eBoUCdsFefniK1vItsWTqA3FSm+JaAVB4DOQLpUCxe/QoiY78gG8i9rZMnf96Q==
+    size: 97091238
 path: Dikly POS Setup.exe
-sha512: b9oNZLNkqICqqNVdNSAiF9zfgaL5VfFYtnDMmU6eykKxUSmqCTaif6RbFSAQtZqVO0kjeZl1msM/c0UCfnf0gw==
-releaseDate: '2026-09-23T23:16:05.087Z'
+sha512: GwDUXZqRwgVmjTq4qqBATGO0eBoUCdsFefniK1vItsWTqA3FSm+JaAVB4DOQLpUCxe/QoiY78gG8i9rZMnf96Q==
+releaseDate: '2026-10-02T13:12:36.792Z'
